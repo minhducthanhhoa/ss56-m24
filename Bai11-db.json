@@ -1,0 +1,24 @@
+{
+    "persons":[
+        {
+            "id":1,
+            "name":"minh anh"
+        },
+        {
+            "id":2,
+            "name":"hà vy"
+        },
+        {
+            "id":3,
+            "name":"ngọc"
+        },
+        {
+            "id":4,
+            "name":"nhung"
+        },
+        {
+            "id":5,
+            "name":"toàn"
+        }
+    ]
+}

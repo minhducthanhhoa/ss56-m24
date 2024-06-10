@@ -1,0 +1,16 @@
+{
+    "post3":[
+        {
+            "id":1,
+            "title":"các kiểu dữ liệu trong typescript"
+        },
+        {
+            "id":2,
+            "title":"bất đồng bộ"
+        },
+        {
+            "id":3,
+            "title":"React Router"
+        }
+    ]
+}

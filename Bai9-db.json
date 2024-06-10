@@ -1,0 +1,19 @@
+{
+  "post1": [
+    {
+      "id": 1,
+      "title": "cách học ReactJS hiệu quả",
+      "content": "Đọc tài liệu và làm bài tập nhiều"
+    },
+    {
+      "id": 2,
+      "title": "học javascript từ cơ bản đến nâng cao",
+      "content": "Thực hành nhiều và đọc sách"
+    },
+    {
+      "id": 3,
+      "title": "bất đồng bộ",
+      "content": "xem bài giảng và thực hành nhiều"
+    }
+  ]
+}

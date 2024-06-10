@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "huy",
+      "address": "ninh bình"
+    },
+    {
+      "name ": "hùng",
+      "address ": "hà nội ",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "minh thu",
+      "address": "nghệ an"
+    }
+  ]
+}

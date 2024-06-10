@@ -1,0 +1,19 @@
+{
+  "post2": [
+    {
+      "id": 1,
+      "title": "cách học html,css hiệu quả",
+      "comment": "bài viết rất hay"
+    },
+    {
+      "id": 2,
+      "title": "typescript nâng cao",
+      "comment": "kiến thức rất dễ hiểu"
+    },
+    {
+      "id": 3,
+      "title": "prop và state",
+      "comment": "bài ciết hữu ích"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cách học ReactJS hiệu quả",
+      "content": "Đọc tài liệu và làm nhiều bài tập",
+      "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.NUnwf_CNKoTvatXtrbyTmxwHaEG&pid=Api&P=0&h=180",
+      "created_at": "25/03/2024",
+      "created_by": "Ngô Văn Quý",
+      "user_id": 1,
+      "comments": [
+        {
+          "id": 1,
+          "content": "Bài viết rất ý nghĩa",
+          "created_at": "22/03/2024",
+          "user_id": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Học JavaScript từ cơ bản đến nâng cao",
+      "content": "Thực hành nhiều và đọc sách",
+      "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.Jnvwf_CNKoTvatXtrbyTmxwHaEG&pid=Api&P=0&h=180",
+      "created_at": "26/03/2024",
+      "created_by": "Nguyễn Văn A",
+      "user_id": 2,
+      "comments": [
+        {
+          "id": 2,
+          "content": "Bài viết hữu ích",
+          "created_at": "23/03/2024",
+          "user_id": 3
+        }
+      ]
+    },
+    {
+      "title": "cách học HTML hiệu quả nhất",
+      "content ": "xem bài giảng và thực hành nhiều",
+      "thumbnail ": "https://prodima.vn/wp-content/uploads/2021/09/html-la-gi.jpg",
+      "created_at ": "26/3/2024 ",
+      "create_by ": "Ngô Minh Đức ",
+      "user_id ": "3",
+      "id": 3
+    }
+  ]
+}

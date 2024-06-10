@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React + TS</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!--
+      1. db.json giúp tạo ra các FAKE_API hoặc MOCK_API 
+       - 2 team front end và backend
+       - Người làm backend và viết những API cho lập trình viên frontend gửi lên những API này dễ tương tác 
+       với datebase để lấy dữ liệu
+       - vấn đề người làm backend chưa kịp viết ...
+      2. Dùng postman để test các API
+      trong postman cung cấp đầy đủ các phương thức, tiêu chuẩn RESTFULL API 
+       Các phương thức làm việc chính
+       1. GET: lấy về dữ liệu
+       http://localhost:8080/users
+       2. POST: thêm mới dữ liệu
+       3. DELETE: Xóa dữ liệu
+       khi xóa 1 bản ghi thì phải biết xóa bản ghi nào, phải có id 
+       4. PUT/PATCH: cập nhật dữ liệu
+        - PUT: cập nhật toàn bộ
+        lấy id bản ghi cập nhật 
+        - PATCH: cập nhật từng trường 
+      5. sắp xếp các bản ghi theo điều kiện
+       - sắp xếp theo tăng dần(asc)
+       - sắp xếp thepp giảm dần(desc)
+      VD muốn sắp xếp các bản ghi ở trong bảng users theo thứ tự 
+       http://localhost:8080/users?_sort&name
+     -->
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

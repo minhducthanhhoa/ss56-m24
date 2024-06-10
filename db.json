@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "name": "trang",
+      "id": 2
+    },
+    {
+      "name": "huyền trang",
+      "id": 3
+    },
+    {
+      "name": "ngo minh duc ",
+      "id": 4,
+      "address": "thanh hóa"
+    }
+  ]
+}
